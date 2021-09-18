@@ -12,6 +12,15 @@ body {
     padding: 0 10px;
 }
 
+.address {
+    text-decoration: none;
+    color:  black;
+}
+
+.address:hover {
+    text-decoration: underline;
+}
+
 .no-bullets {
     list-style-type: none;
     margin: 0;
